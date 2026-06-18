@@ -1,0 +1,13 @@
+# секреты и сессии — наружу не уходят
+.env
+*.session
+*.session-journal
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# системное
+.DS_Store
